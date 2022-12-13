@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "component")(type "Legacy")(uri "${KIPRJMOD}/lib/component.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/lib/Type-C.lib")(options "")(descr ""))
+  (lib (name "nice-nano")(type "Legacy")(uri "/Users/jinsongc/Development/jinsongc1-ergodone/lib/nice-nano-kicad/nice_nano.lib")(options "")(descr ""))
+  (lib (name "SparkFun")(type "Legacy")(uri "/Users/jinsongc/Development/jinsongc1-ergodone/lib/SparkFun-Kicad-Libraries/SparkFun-Electromechanical.lib")(options "")(descr ""))
+)
